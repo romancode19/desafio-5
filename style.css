@@ -1,1 +1,5 @@
-
+.menu-mas-ancho{
+    margin: 20px;
+    padding: 20px;
+    background-image: image(fondo-plantacion);
+}
