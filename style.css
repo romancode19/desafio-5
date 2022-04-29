@@ -32,3 +32,17 @@ li{
     display: flex;
     justify-content:space-evenly;
 }
+
+/*carousel en contacto - slide de imagenes*/
+.tamano-imagenes{
+    object-fit: fill;
+    width: 30%; 
+        
+}
+
+.opiniones{
+    background-color: rgba(75, 75, 75, 0.164);
+    
+    
+}
+
